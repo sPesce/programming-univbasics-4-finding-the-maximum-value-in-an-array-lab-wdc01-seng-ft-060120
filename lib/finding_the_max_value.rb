@@ -5,8 +5,8 @@ def find_max_value(array)
   {
     |n| 
     
-    if array[n] > new_max
-      new_max = array[n]
+    if n > new_max
+      new_max = n
     end
   }
   new_max
