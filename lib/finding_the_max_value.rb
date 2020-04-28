@@ -5,7 +5,7 @@ def find_max_value(array)
     
     if n > new_max
       new_max = n
-      puts "new_max = ${new_max}"
+      puts "new_max = #{new_max}"
     end
   }
   new_max
