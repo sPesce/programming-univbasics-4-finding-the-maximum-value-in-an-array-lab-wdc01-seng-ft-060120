@@ -10,6 +10,7 @@ def find_max_value(array)
       puts "new_max = #{new_max}"
     end
   }
-  new_max
+  
   puts "function end"
+  new_max
 end  
