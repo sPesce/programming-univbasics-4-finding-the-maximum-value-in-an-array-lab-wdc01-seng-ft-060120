@@ -1,4 +1,4 @@
-//returns max value from unsigned int array 
+/*returns max value from unsigned int array 
 def find_max_value(array)
   new_max = -1;
   
