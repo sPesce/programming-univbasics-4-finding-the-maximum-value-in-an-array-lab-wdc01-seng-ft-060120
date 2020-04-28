@@ -1,4 +1,5 @@
 def find_max_value(array)
+  puts "function begin"
   new_max = -1;
   
   array.each { |n| 
@@ -10,4 +11,5 @@ def find_max_value(array)
     end
   }
   new_max
+  puts "function end"
 end  
