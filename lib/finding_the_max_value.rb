@@ -3,6 +3,7 @@ def find_max_value(array)
   
   array.each { |n| 
     
+    puts n 
     if n > new_max
       new_max = n
       puts "new_max = #{new_max}"
